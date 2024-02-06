@@ -1,0 +1,56 @@
+{
+  "resources": {
+    "title": "Resources",
+    "urls": [
+      {
+        "title": "GitHub - Simple Point of Sale (POS) Application",
+        "url": "https://github.com/agusismawan/rusdiantokom.git",
+        "body": "Simple point of sale application web based",
+        "tag": ["PROJECT", "RESOURCES"],
+        "published_date": "2025-07-17"
+      },
+      {
+        "title": "GitHub - SIKUBA (Sistem Peminjaman Inkubator Bayi di YAYASAN BAYI PREMATUR INDONESIA)",
+        "url": "si-kuba.com",
+        "body": "An application to manage lending of baby incubator",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-13"
+      },
+      {
+        "title": "GitHub - Employee Data Collection System",
+        "url": "https://github.com/agusismawan/erporate-project.git",
+        "body": "Website for employee data collection system",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-8"
+      },
+      {
+        "title": "Company Website of PT KARYA INDONESIA CERDAS",
+        "url": "https://karya-indonesia-cerdas.com",
+        "body": "a beautiful site of informatics company PT Karya Indonesia Cerdas",
+        "tag": ["PROJECT", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
+        "title": "Website of INDONESIAN ASSOCIATION OF HOSPITAL ENGINEERING (IAHE)",
+        "url": "https://iahe.or.id",
+        "body": "Website IAHE organization, profile website and handle registration and member",
+        "tag": ["PROJECT", "RESOURCES"],
+        "published_date": "2025-12-04"
+      },
+      {
+        "title": "SHIELD (Integrated IT Service)",
+        "url": "https://shield-dev.vercel.app",
+        "body": "Integrated IT services for incident management, problem management, and complaint handling",
+        "tag": ["PROJECT", "RESOURCES"],
+        "published_date": "2025-12-12"
+      },
+      {
+        "title": "FDS (Fraud Detection System)",
+        "url": "https://fds-ui.vercel.app",
+        "body": "This link is the demo of FDS on development environment, input your source account and this app can visualize tree of destination account.",
+        "tag": ["PROJECT", "RESOURCES"],
+        "published_date": "2025-12-12"
+      }
+    ]
+  }
+}
